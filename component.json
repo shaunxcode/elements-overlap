@@ -1,0 +1,14 @@
+{
+  "name": "elementsOverlap",
+  "repo": "shaunxcode/elementsOverlap",
+  "description": "cheks if two dom elements overlap",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "element",
+    "overlap"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
