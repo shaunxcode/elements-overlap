@@ -1,6 +1,6 @@
 {
-  "name": "elementsOverlap",
-  "repo": "shaunxcode/elementsOverlap",
+  "name": "elements-overlap",
+  "repo": "shaunxcode/elements-overlap",
   "description": "cheks if two dom elements overlap",
   "version": "0.0.1",
   "keywords": [
